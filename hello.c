@@ -1,5 +1,5 @@
 /**
-* Author: Hieu luu  
+* Author: Hieu luu
 * Date: 2020
 *
 * A simple hello world program
@@ -8,8 +8,8 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-    
-    printf("Hello world!\n");
-    
+
+    printf("Hieu Luu!\n");
+
     return 0;
 }
